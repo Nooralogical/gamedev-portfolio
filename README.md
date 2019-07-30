@@ -24,7 +24,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
 
 !TODO
 
-<img src="/icons/roboticon.png" width="100"> [Repository](https://youtu.be/tc3Hln99bMs)
+<img src="/icons/pipeicon.png" width="100"> [Repository](https://github.com/Nooralogical/thelaststephen)
 <img src="/icons/roboticon.png" width="100"> [Game video](https://youtu.be/tc3Hln99bMs)
 ___
 
