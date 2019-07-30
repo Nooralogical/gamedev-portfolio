@@ -2,20 +2,17 @@
 
 # About
 
-Hi you, Noora here! I'm a software engineering student @ **Lahti University of Applied Sciences** and graduating in autumn 2019, if the planets align. I'm programmer with a strong design background.
+Hi you, Noora here! I'm a software engineering student @ **Lahti University of Applied Sciences** graduating in autumn 2019, if the planets align. I'm a programmer with a strong design background, who has some experience in game development from school projects, hobby projects and game jams. I'm looking to find my first game industry position in programming or game design.
 
 # Projects
 
 ## Table of Contents
 
-  * [Game development](#Game-development)
-    * [GameChangers Project demo: The Last Stephen](#The-Last-Stephen-game-demo)
-    * [Hotline LAMK GameMaker Studio 2 game](#Hotline-LAMK-GameMaker-Studio-2-game)
-    * [Finnish Game Jam 2018 game](#Finnish-Game-Jam-2018-game)
+* [GameChangers Project demo: The Last Stephen](#The-Last-Stephen-game-demo)
+* [Hotline LAMK GameMaker Studio 2 game](#Hotline-LAMK-GameMaker-Studio-2-game)
+* [Finnish Game Jam 2018 game](#Finnish-Game-Jam-2018-game)
 
-## Game development
-
-### The Last Stephen game demo
+## The Last Stephen game demo
 
 ![The Last Stephen header](/images/robotheader.png "The Last Stephen demo")
 
@@ -28,7 +25,7 @@ I took part in GameChangers BETA game development coaching [program](https://gcp
 <img src="/icons/roboticon.png" width="100"> [Game video](https://youtu.be/tc3Hln99bMs)
 ___
 
-### Hotline LAMK GameMaker Studio 2 game
+## Hotline LAMK GameMaker Studio 2 game
 
 ![Hotline LAMK header](/images/hotlineheader.png "Hotline LAMK game")
 
@@ -44,7 +41,7 @@ I worked on some programming parts, mainly the UI. However I was responsible for
 
 ___
 
-### Finnish Game Jam 2018 game
+## Finnish Game Jam 2018 game
 
 ![Robot's mission header](/images/robotheader.png "Robot's mission game")
 
