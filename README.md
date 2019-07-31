@@ -43,7 +43,7 @@ ___
 
 ## Finnish Game Jam 2018 game
 
-![Robot's mission header](/images/robotheader.png "Robot's mission game")
+![Robot's mission header](/images/robotheaderbig.png "Robot's mission game")
 
 * **Unity**
 * **C#**
