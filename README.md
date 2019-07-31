@@ -27,7 +27,7 @@ ___
 
 ## Hotline LAMK GameMaker Studio 2 game
 
-![Hotline LAMK header](/images/hotlineheader.png "Hotline LAMK game")
+![Hotline LAMK header](/images/hotlineheaderbig.png "Hotline LAMK game")
 
 * **GameMaker Studio 2**
 * **GameMaker Language**
