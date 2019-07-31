@@ -14,7 +14,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
 
 ## The Last Stephen game demo
 
-![The Last Stephen header](/images/stephenheader.png "The Last Stephen demo")
+![The Last Stephen header](/images/stephenheaderbig.png "The Last Stephen demo")
 
 * **Unity**
 * **C#**
