@@ -14,7 +14,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
 
 ## The Last Stephen game demo
 
-![The Last Stephen header](/images/robotheader.png "The Last Stephen demo")
+![The Last Stephen header](/images/stephenheader.png "The Last Stephen demo")
 
 * **Unity**
 * **C#**
@@ -22,7 +22,7 @@ Hi you, Noora here! I'm a software engineering student @ **Lahti University of A
 I took part in GameChangers BETA game development coaching [program](https://gcproject.fi/index.php/language/en/beta-coaching-program/) in the spring of 2019. The program consisted of theory lectures, networking and excursions to game studios among other things, while we developed a game idea into a working demo in multidisciplinary teams. We were a diverse team of designers, artists and writers while I was the programmer. This is the latest and largest of my projects. More info can be found in the [repository](https://github.com/Nooralogical/thelaststephen) that also contains the scripts for this game demo.
 
 <img src="/icons/pipeicon.png" width="100"> [Repository](https://github.com/Nooralogical/thelaststephen)
-<img src="/icons/roboticon.png" width="100"> [Game video](https://youtu.be/tc3Hln99bMs)
+<img src="/icons/roboticon.png" width="100"> [Game video](https://youtu.be/R39vVCxjSqc?t=1607)
 ___
 
 ## Hotline LAMK GameMaker Studio 2 game
